@@ -12,7 +12,7 @@ Hari ini saya menelusuri perkembangan di [Ibu Kota Nusantara].
 📖 **Baca versi lengkap dan dokumentasi lapangan:**  
 👉 [Catatan IKN Awal Juli 2025 – dianrana.id](https://www.dianrana.id/2025/07/catatan-ikn-awal-juli-2025-menelusuri.html)
 
-(images/IKN.jpg)
+![IKN Awal Juli 2025 ](IKN.jpg)
 
 
 > *Dokumentasi ini merupakan bagian dari catatan rutin lapangan pembangunan Ibu Kota Nusantara.*
