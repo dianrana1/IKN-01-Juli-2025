@@ -1,6 +1,6 @@
 # 📝 Update IKN – 1 Juli 2025
 
-Hari ini saya menelusuri perkembangan di sektor [isi lokasi/topik].
+Hari ini saya menelusuri perkembangan di [Ibu Kota Nusantara].
 
 ## 🔍 Ringkasan:
 - Proyek jalan utama mencapai 80% progres
